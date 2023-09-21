@@ -1,0 +1,30 @@
+0 Almond
+1 Banana
+2 Cardamom
+3 Cherry
+4 Chilli
+5 Clove
+6 Coconut
+7 Coffee-Plant
+8 Cotton
+9 Cucumber
+10 Fox nut(Makhana)
+11 Jowar
+12 Gram
+13 Jute
+14 Lemon
+15 Maize
+16 Mustard Oil
+17 Olive Tree
+18 Papaya
+19 Pearl millet(bajra)
+20 Pineapple
+21 Rice
+22 Soyabean
+23 Sugarcane
+24 Sunflower
+25 Tea
+26 Tobacco-plant
+27 Tomato
+28 Wheat
+29 vigna-radiati(Mung)

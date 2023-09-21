@@ -1,0 +1,8 @@
+0 Amoeba
+1 Euglena
+2 Hydra
+3 Paramecium
+4 Rod-bacteria
+5 Spherical-bacteria
+6 Spiral-bacteria
+7 Yeast
