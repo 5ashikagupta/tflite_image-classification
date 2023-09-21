@@ -1,0 +1,12 @@
+0 Butterfly
+1 Cat
+2 Cow
+3 Dog
+4 Elephant
+5 Hen
+6 Horse
+7 Monkey
+8 Panda
+9 Sheep
+10 Spider
+11 Squirrel
